@@ -1,0 +1,15 @@
+@import url("/css/simple-grid.css");
+
+.col-4{
+    width: 100%;
+   grid-template-columns: 2;
+    border: solid 1px black;
+    
+}
+.titulos{
+background-color: aqua;
+    
+}
+tr{
+    background-color:beige;
+}
